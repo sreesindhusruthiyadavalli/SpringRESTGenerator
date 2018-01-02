@@ -1,0 +1,1 @@
+#SpringRESTGenerator
